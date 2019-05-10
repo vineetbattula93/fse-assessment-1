@@ -5,10 +5,10 @@
 ## Overview
 Cognizant has been engaged to help build a site for **Ali Snobba** - a snobby online store where customers purchase high-end merchandise like Louis Vuitton handbags and Rolex watches.
 
-We need to model a Shopping Cart that stores items while customers are going through the checkout process.  This basic cart will work like all basic carts you’ve ever used while shopping online.
+We need to com.cognizant.assessment.model a Shopping Cart that stores items while customers are going through the checkout process.  This basic cart will work like all basic carts you’ve ever used while shopping online.
 
 ## Your Task
-- Create the model classes for Cart, LineItem, and Product, that meet the requirements below, and thoroughly unit-test them.
+- Create the com.cognizant.assessment.model classes for Cart, LineItem, and Product, that meet the requirements below, and thoroughly unit-test them.
 
 ## Time to Complete
 - You have 1 hour and 15 minutes to complete this assessment.  (Ends at 10:15am)
@@ -26,7 +26,7 @@ We need to model a Shopping Cart that stores items while customers are going thr
 
 ## Technical Requirements
 - Use plain old Java, NO frameworks such as Spring, and NO ORM libraries.
-- Create a package structure using best practices for the model classes.
+- Create a package structure using best practices for the com.cognizant.assessment.model classes.
 - Demonstrate the use of Java functional programming style.  (Use interfaces where it makes sense to do so.)
 - Use Gradle to build.
 - Write clean, modularized code.
